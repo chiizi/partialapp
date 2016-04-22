@@ -1,0 +1,2 @@
+# partialapp
+Partial function application
